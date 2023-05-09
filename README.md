@@ -10,9 +10,9 @@ O projeto encontra-se em fase de desenvolvimento.
 
 ## Dados do Desenvolvedor:
 
-Olival Paulino
-LinkedIn: https://www.linkedin.com/in/olivalpaulino/
-E-mail: olivalpaulinocc@gmail.com
+Olival Paulino <br>
+LinkedIn: https://www.linkedin.com/in/olivalpaulino/ <br>
+E-mail: olivalpaulinocc@gmail.com <br>
 WhatsApp: 82 98210-7078
 
 ## O Projeto está em desenvolvimento e já conta com a seguinte estrutura:
