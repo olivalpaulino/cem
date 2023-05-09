@@ -10,10 +10,12 @@ O projeto encontra-se em fase de desenvolvimento.
 
 ## Dados do Desenvolvedor:
 
-Olival Paulino <br>
-LinkedIn: https://www.linkedin.com/in/olivalpaulino/ <br>
-E-mail: olivalpaulinocc@gmail.com <br>
-WhatsApp: 82 98210-7078
+- Nome: Olival Paulino <br>
+- LinkedIn: https://www.linkedin.com/in/olivalpaulino/ <br>
+- E-mail: olivalpaulinocc@gmail.com <br>
+- Canal do Youtube: https://www.youtube.com/c/OlivalPaulino/playlists <br>
+- Instagram: https://www.instagram.com/olivalpaulino/ <br>
+- WhatsApp: 82 98210-7078
 
 ## O Projeto está em desenvolvimento e já conta com a seguinte estrutura:
 - controller
