@@ -44,7 +44,7 @@ public class CentroDeEspecialidade {
 	
 	@ManyToMany
 	@JoinTable(
-			name = "",
+			name = "centro_de_especialidades_especialidades",
 			joinColumns = @JoinColumn(name = "centro_de_especialidades_id"),
 			inverseJoinColumns = @JoinColumn(name = "especialidade_id")
 	)
@@ -52,7 +52,7 @@ public class CentroDeEspecialidade {
 	
 	@ManyToMany
 	@JoinTable(
-			name = "",
+			name = "centro_de_especialidades_medicos",
 			joinColumns = @JoinColumn(name = "centro_de_especialidades_id"),
 			inverseJoinColumns = @JoinColumn(name = "medico_id")
 	)
