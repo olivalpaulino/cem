@@ -1,9 +1,5 @@
 package br.com.saudedigital.cem.entity;
 
-import javax.annotation.processing.Generated;
-
-import org.springframework.aot.generate.GeneratedTypeReference;
-
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
