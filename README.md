@@ -34,3 +34,8 @@ O processo de desenvolvimento é incremental, com entregas diárias.
 - Spring Data JPA
 - Spring Web
 - Spring Security
+
+## Antes de Testar o Projeto
+
+Realize a criação do banco de dados, com o nome **cem** <br>
+Para isso, basta digitar o comando SQL, no prompt de comando: **create database cem**
