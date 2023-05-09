@@ -2,10 +2,6 @@ package br.com.saudedigital.cem.entity;
 
 import java.util.List;
 
-import javax.annotation.processing.Generated;
-
-import org.hibernate.tuple.GeneratedValueGeneration;
-
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
