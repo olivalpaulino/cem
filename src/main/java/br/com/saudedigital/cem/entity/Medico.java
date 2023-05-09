@@ -1,6 +1,7 @@
 package br.com.saudedigital.cem.entity;
 
 import java.util.Date;
+import java.util.List;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -38,6 +39,6 @@ public class Medico {
 			joinColumns = @JoinColumn(name = "medico_id"),
 			inverseJoinColumns = @JoinColumn(name = "especialidade_id")
 	)
-	private Especialidade especialidade;
+	private List<Especialidade> especialidades;
 	
 }
